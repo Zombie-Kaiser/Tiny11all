@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?style=flat-square&logo=powershell" alt="PowerShell">
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License">
 </p>
+<img width="1334" height="968" alt="{28BD00EB-C563-49BA-8A04-CF0D3E2CA046}" src="https://github.com/user-attachments/assets/e14780a1-a722-47c7-a784-ef398d70ad21" />
 
 **Tiny11all** is an all-in-one Windows 11 image slimming tool with a beautiful modern GUI, combining the best features from **tiny11 builder** and **nano11 builder**.
 
